@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Famous mountain",
+        "image": "place.jpg"
+    },
+    {
+        "name": "Famous zoo",
+        "image": "place2.jpg"
+    },
+    {
+        "name": "Famous bridge",
+        "image": "place3.jpg"
+    }
+]
